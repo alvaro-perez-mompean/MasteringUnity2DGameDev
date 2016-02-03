@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: d3298539722677a449c0223c5ea406ca
+timeCreated: 1454525442
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Greandal_0
+    21300002: Greandal_1
+    21300004: Greandal_2
+    21300006: Greandal_3
+    21300008: Greandal_4
+    21300010: Greandal_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Greandal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 59}
+        - {x: -34.5, y: 59}
+        - {x: -38.5, y: 50}
+        - {x: -38.5, y: -45}
+        - {x: -28.5, y: -64}
+        - {x: 6.5, y: -64}
+        - {x: 23.5, y: -37}
+        - {x: 23.5, y: 24}
+        - {x: 16.5, y: 57}
+    - name: Greandal_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 62}
+        - {x: -31.5, y: -62}
+        - {x: 14.5, y: -62}
+        - {x: 36.5, y: -12}
+        - {x: 36.5, y: 38}
+        - {x: 21.5, y: 62}
+    - name: Greandal_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 62}
+        - {x: 2.5, y: 63}
+        - {x: -24.5, y: 63}
+        - {x: -29.5, y: 57}
+        - {x: -29.5, y: -64}
+        - {x: 22.5, y: -64}
+        - {x: 30.5, y: -61}
+        - {x: 30.5, y: -2}
+        - {x: 27.5, y: 30}
+    - name: Greandal_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 64}
+        - {x: -29.5, y: -35}
+        - {x: -14.5, y: -64}
+        - {x: 16.5, y: -64}
+        - {x: 24.5, y: -53}
+        - {x: 24.5, y: 41}
+        - {x: 17.5, y: 64}
+    - name: Greandal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 63}
+        - {x: -32.5, y: 44}
+        - {x: -33.5, y: 34}
+        - {x: -33.5, y: -63}
+        - {x: -13.5, y: -63}
+        - {x: 32.5, y: -56}
+        - {x: 32.5, y: 40}
+        - {x: 7.5, y: 63}
+    - name: Greandal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 64}
+        - {x: -24.5, y: 57}
+        - {x: -24.5, y: -62}
+        - {x: -19.5, y: -64}
+        - {x: 19.5, y: -64}
+        - {x: 25.5, y: -39}
+        - {x: 25.5, y: 50}
+        - {x: 12.5, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
