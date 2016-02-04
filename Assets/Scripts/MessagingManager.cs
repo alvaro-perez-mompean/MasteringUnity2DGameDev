@@ -27,6 +27,7 @@ public class MessagingManager : MonoBehaviour {
 
     public void Subscribe(Action subscriber)
     {
+        Debug.Log("Subscribe registered");
         subscribers.Add(subscriber);
     }
 
